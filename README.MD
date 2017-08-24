@@ -1,1 +1,1 @@
-## Alexa Droplets Management Skill
+## Alexa skill for Droplets management
