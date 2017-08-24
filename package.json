@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Cu7ious/alexa-droplets-skill#readme",
   "dependencies": {
-    "alexa-sdk": "^1.0.12"
+    "alexa-sdk": "^1.0.12",
+    "alexa-verifier": "^0.4.0"
   }
 }
